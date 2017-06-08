@@ -1,0 +1,46 @@
+﻿Build started 03/06/2017 9:29:20 SA.
+     1>Project "D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\SoHuuTi\SoHuuTi\SoHuuTi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SoHuuTi.cpp
+         SoHuuTi.cpp
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(7): error C2143: syntax error : missing ';' before '&'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(7): error C2433: 'istream' : 'friend' not permitted on data declarations
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(7): error C2061: syntax error : identifier 'istream'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(7): error C2805: binary 'operator >>' has too few parameters
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(8): error C2143: syntax error : missing ';' before '&'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(8): error C2433: 'ostream' : 'friend' not permitted on data declarations
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(8): error C2061: syntax error : identifier 'ostream'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(8): error C2805: binary 'operator <<' has too few parameters
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(9): error C2143: syntax error : missing ';' before '*'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(9): error C2433: 'PhanSo' : 'friend' not permitted on data declarations
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(9): error C2061: syntax error : identifier 'PhanSo'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(10): error C2143: syntax error : missing ';' before '/'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(10): error C2433: 'PhanSo' : 'friend' not permitted on data declarations
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(10): error C2061: syntax error : identifier 'PhanSo'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(10): error C2805: binary 'operator /' has too few parameters
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(11): error C2143: syntax error : missing ';' before '+'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(13): error C2061: syntax error : identifier 'PhanSo'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(27): error C2872: 'istream' : ambiguous symbol
+                 could be 'd:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(7) : int istream'
+                 or       'c:\program files (x86)\microsoft visual studio 12.0\vc\include\iosfwd(677) : std::istream'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(27): error C2143: syntax error : missing ';' before '&'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(27): error C2433: 'istream' : 'friend' not permitted on data declarations
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(27): error C2804: binary 'operator >>' has too many parameters
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(28): error C2872: 'ostream' : ambiguous symbol
+                 could be 'd:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(8) : int ostream'
+                 or       'c:\program files (x86)\microsoft visual studio 12.0\vc\include\iosfwd(678) : std::ostream'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(28): error C2143: syntax error : missing ';' before '&'
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(28): error C2433: 'ostream' : 'friend' not permitted on data declarations
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\tài liệu\code\visual studio 2013\projects\thicuoikiopp\sohuuti\sohuuti\sohuuti.h(28): error C2804: binary 'operator <<' has too many parameters
+     1>Done Building Project "D:\Tài Liệu\Code\Visual Studio 2013\Projects\ThiCuoiKiOpp\SoHuuTi\SoHuuTi\SoHuuTi.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.60

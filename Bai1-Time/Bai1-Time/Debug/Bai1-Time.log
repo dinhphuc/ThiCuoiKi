@@ -1,0 +1,18 @@
+﻿Build started 07/06/2017 10:02:07 CH.
+     1>Project "C:\Users\sunfl\Desktop\New folder\Bai1-Time\Bai1-Time\Bai1-Time.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\sunfl\desktop\new folder\bai1-time\bai1-time\main.cpp(77): warning C4620: no postfix form of 'operator ++' found for type 'Time', using prefix form
+                 c:\users\sunfl\desktop\new folder\bai1-time\bai1-time\time.h(9) : see declaration of 'Time'
+     1>c:\users\sunfl\desktop\new folder\bai1-time\bai1-time\main.cpp(87): warning C4621: no postfix form of 'operator --' found for type 'Time', using prefix form
+                 c:\users\sunfl\desktop\new folder\bai1-time\bai1-time\time.h(9) : see declaration of 'Time'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sunfl\Desktop\New folder\Bai1-Time\Debug\Bai1-Time.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\sunfl\Desktop\New folder\Bai1-Time\Debug\Bai1-Time.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sunfl\Desktop\New folder\Bai1-Time\Debug\Bai1-Time.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Time.obj
+         Bai1-Time.vcxproj -> C:\Users\sunfl\Desktop\New folder\Bai1-Time\Debug\Bai1-Time.exe
+     1>Done Building Project "C:\Users\sunfl\Desktop\New folder\Bai1-Time\Bai1-Time\Bai1-Time.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20
